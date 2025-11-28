@@ -1,0 +1,12 @@
+pandas
+mediacloud
+python-dotenv
+tqdm
+matplotlib
+wordcloud
+seaborn
+networkx
+sentence-transformers
+scikit-learn
+vaderSentiment
+textblob

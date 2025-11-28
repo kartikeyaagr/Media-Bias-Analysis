@@ -1,0 +1,29 @@
+Analysis Report for Elections
+==================================================
+
+Total Stories: 20000
+Total Clusters: 8761
+
+Top Keywords:
+  - bjp: 3162.85
+  - election: 2506.83
+  - polls: 2034.34
+  - congress: 1895.42
+  - delhi: 1716.94
+  - assembly: 1227.37
+  - aap: 1141.58
+  - elections: 1093.35
+  - maharashtra: 1085.79
+  - gandhi: 991.72
+
+Top Event Clusters:
+  - Cluster 1081 (590 stories): Lucknow Cantonment Election Result 2022 LIVE Updates: Counting of Votes to Begin Shortly
+  - Cluster 430 (271 stories): Timarpur Election Result 2020 Latest Updates: Delhi Assembly Elections; Constituency, Party, Candidate Name Wise Winner, Loser, Leading, Trailing
+  - Cluster 2 (215 stories): M’rashtra polls: Mahayuti, MVA optimistic of victory
+  - Cluster 128 (96 stories): Priyanka Gandhi's Wayanad Victory: A Key Milestone for Congress, Says Himachal CM Sukhu
+  - Cluster 1502 (82 stories): Congress leader Priyanka Gandhi takes oath as Lok Sabha MP wearing traditional Kerala sari
+  - Cluster 16 (76 stories): Delhi Exit Poll Result 2020 Date and Time: Fate of 70-member Assembly to be extrapolated at 6.30 pm tomorrow
+  - Cluster 102 (70 stories): Delhi Elections 2025 Result: Humiliation for Congress as 67 Out of 70 Candidates Lose Deposits
+  - Cluster 86 (68 stories): Chhattisgarh Bypoll Result: BJP Retains Raipur City South Assembly Seat
+  - Cluster 1204 (66 stories): Most Exit Polls Predict Twin Wins For BJP Allies In Maharashtra, Jharkhand In Last Elections Of 2024
+  - Cluster 726 (58 stories): Fadnavis slams Rahul over allegations about irregularities in Maharashtra assembly polls

@@ -1,0 +1,29 @@
+Analysis Report for Budget
+==================================================
+
+Total Stories: 20000
+Total Clusters: 11161
+
+Top Keywords:
+  - budget: 3178.79
+  - india: 2520.22
+  - economic: 1962.21
+  - survey: 1854.25
+  - growth: 1314.21
+  - govt: 1224.31
+  - tax: 1201.30
+  - says: 1001.63
+  - sitharaman: 926.12
+  - 2020: 869.85
+
+Top Event Clusters:
+  - Cluster 78 (106 stories): Nirmala Sitharaman to present the first budget of Modi 3.0 today. What to expect
+  - Cluster 371 (93 stories): Budget 2023: What is the Economic Survey? All you need to about it
+  - Cluster 1359 (84 stories): India economic survey likely to peg 2023-24 growth at 6-6.8%: Source
+  - Cluster 154 (84 stories): FM Nirmala Sitharaman tables Economic Survey 2023-24 in Lok Sabha
+  - Cluster 17 (82 stories): Economic Survey predicts India GDP to grow at 6.5% to 7% this fiscal
+  - Cluster 159 (67 stories): When is Budget 2020 India Time, Budget Speech by FM Nirmala Sitharaman?
+  - Cluster 41 (67 stories): Economic Survey may project 9% GDP growth for 2022-23
+  - Cluster 2345 (65 stories): Budget 2025: 10 Key Announcements By FM Nirmala Sitharaman For The Common Man
+  - Cluster 324 (63 stories): India's Economic Outlook: Growth and Fiscal Projections
+  - Cluster 109 (61 stories): Union Budget 2021: What is Economic Survey? How to watch Union Budget 2021 telecast?

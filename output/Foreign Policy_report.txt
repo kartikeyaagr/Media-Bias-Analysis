@@ -1,0 +1,29 @@
+Analysis Report for Foreign Policy
+==================================================
+
+Total Stories: 20000
+Total Clusters: 9075
+
+Top Keywords:
+  - india: 5223.66
+  - china: 2689.19
+  - russia: 1399.54
+  - modi: 1222.06
+  - pm: 1169.63
+  - says: 1150.63
+  - summit: 1112.00
+  - envoy: 1073.41
+  - ukraine: 1049.41
+  - ties: 863.05
+
+Top Event Clusters:
+  - Cluster 856 (55 stories): PM Modi arrives in Italy for G7 Summit; several bilateral meetings lined up with world leaders
+  - Cluster 27 (55 stories): China raises Kashmir at UNSC, stung by silence from others
+  - Cluster 231 (39 stories): Russian missile lands in Poland, 2 dead; NATO calls emergency meet
+  - Cluster 1093 (36 stories): India, China Complete Eastern Ladakh Disengagement; Sweet Distribution Today: Sources
+  - Cluster 130 (36 stories): PM Modi, President Biden exchange views on global, regional issues including Indo-Pacific
+  - Cluster 744 (36 stories): India-China Bilateral Talks: Modi & Xi meet: A New Phase in Border Relations
+  - Cluster 246 (33 stories): PM Modi’s Russia visit: Why Russia is important to India
+  - Cluster 538 (30 stories): US secretary of state Antony Blinken begins his two-day India visit today
+  - Cluster 971 (29 stories): We have decided to give Enhanced Partnership status to India-Brunei ties: PM Modi
+  - Cluster 954 (29 stories): Ajit Doval holds talks with Chinese Foreign Minister Wang Yi on peace at borders, restoration of ties

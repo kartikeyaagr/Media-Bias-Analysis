@@ -1,0 +1,29 @@
+Analysis Report for Supreme Court
+==================================================
+
+Total Stories: 20000
+Total Clusters: 8815
+
+Top Keywords:
+  - hc: 4124.23
+  - sc: 3941.35
+  - court: 2607.03
+  - plea: 1808.83
+  - supreme: 1583.95
+  - delhi: 1359.12
+  - case: 1245.99
+  - high: 1170.43
+  - govt: 1112.52
+  - justice: 1103.08
+
+Top Event Clusters:
+  - Cluster 64 (103 stories): Hijab row: Karnataka High Court to pronounce judgement tomorrow
+  - Cluster 8 (77 stories): US reaffirms support for India's pursuit of justice in 26/11 attacks
+  - Cluster 10 (72 stories): Law Ministry Notifies Justice Muralidhar’s Transfer From Delhi HC
+  - Cluster 511 (65 stories): President Ram Nath Kovind nominates former CJI Ranjan Gogoi to Rajya Sabha
+  - Cluster 551 (62 stories): Sambhal violence: SC restrains trial court proceedings till Jan 8; directs Masjid committee to approach HC
+  - Cluster 541 (62 stories): HC judge refers hijab pleas to CJ, full bench hearing today
+  - Cluster 772 (59 stories): Nirbhaya: Convict Mukesh Kumar seeks urgent hearing in SC against rejection of mercy plea
+  - Cluster 43 (58 stories): Supreme Court Scrutinizes Waqf Act Amid YSRCP's Muslim Rights Push
+  - Cluster 5 (55 stories): CJI forms panel to probe charges against Justice Varma; directs not to assign him any judicial work
+  - Cluster 265 (51 stories): HC Bar Assn begins indefinite stir against Justice Varmaâs transfer

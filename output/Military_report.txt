@@ -1,0 +1,29 @@
+Analysis Report for Military
+==================================================
+
+Total Stories: 20000
+Total Clusters: 7233
+
+Top Keywords:
+  - india: 2911.05
+  - pakistan: 2538.01
+  - operation: 1702.39
+  - sindoor: 1669.19
+  - indian: 1461.26
+  - army: 1238.84
+  - attack: 1098.47
+  - pahalgam: 1066.18
+  - terror: 922.17
+  - pak: 881.15
+
+Top Event Clusters:
+  - Cluster 71 (420 stories): Operation Sindoor is an apt and timely response to Pahalgam
+  - Cluster 29 (182 stories): Priyank Kharge Slams Centre: Where is Intelligence, Surveillance?
+  - Cluster 435 (159 stories): India repulses Pak’s drone blitzkrieg
+  - Cluster 820 (148 stories): भारतीय सेना की बहादुरी पर फिदा करीना, बोलीं, ‘हम आभारी हैं!’
+  - Cluster 56 (138 stories): Here's How Group Captain Shubhanshu Shukla Is Spending His First Day In Space Aboard Axiom-4 Mission
+  - Cluster 2271 (123 stories): Operation Sindoor: रोहित शर्मा के बाद विराट कोहली ने सेना को किया सलाम, अपनी पोस्ट से जीता करोड़ों फैंस का दिल
+  - Cluster 108 (117 stories): Pahalgam terror attack: EAM S Jaishankar meets Home Minister Amit Shah
+  - Cluster 184 (105 stories): India-Pakistan Ceasefire: What Unfolded Next On The Borders
+  - Cluster 109 (95 stories): How India Damaged Pakistani Air Bases, Destroyed Terror Camps During Four-Day Clash
+  - Cluster 146 (93 stories): भारत-पाकिस्तान सीमा से 15 किमी दूर मिला ड्रोन, बीएसएफ ने शुरू की जांच
