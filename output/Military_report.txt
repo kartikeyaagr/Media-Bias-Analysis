@@ -1,29 +1,29 @@
 Analysis Report for Military
 ==================================================
 
-Total Stories: 10973
-Total Clusters: 4845
+Total Stories: 10442
+Total Clusters: 4543
 
 Top Keywords:
-  - india: 2064.85
-  - pakistan: 1743.48
-  - operation: 1415.31
-  - sindoor: 1287.35
-  - indian: 825.17
-  - pak: 761.46
-  - army: 643.13
-  - modi: 545.17
-  - pm: 540.29
-  - war: 521.67
+  - india: 1996.74
+  - pakistan: 1670.29
+  - operation: 1386.20
+  - sindoor: 1258.86
+  - indian: 813.61
+  - pak: 729.00
+  - army: 597.35
+  - pm: 519.98
+  - modi: 519.46
+  - terror: 422.65
 
 Top Event Clusters:
-  - Cluster 149 (245 stories): 'India Targets Terror...': Raveena Tandon Supports 'Operation Sindoor' With A Powerful Message
-  - Cluster 863 (74 stories): How fragile ceasefire underlines India-Pakistan fault lines
-  - Cluster 230 (54 stories): Pakistani drone attacks thwarted in Punjab; three of family injured in Ferozepur
-  - Cluster 339 (49 stories): Rescue service: The Hindu Editorial on ‘Operation Kaveri’ and Sudan
-  - Cluster 67 (44 stories): India Destroys Pakistani Drone Launch Pads Near Jammu region
-  - Cluster 884 (43 stories): India destroys China-made missile shield in Lahore. What are Pak's HQ-9, HQ-16?
-  - Cluster 146 (42 stories): Operation Sindoor is an apt and timely response to Pahalgam
-  - Cluster 518 (40 stories): Modi visits Adampur air base days after Op Sindoor, meets soldiers
-  - Cluster 318 (38 stories): Amid Sudan crisis, a look at India's heroic missions that helped rescue citizens from war zones
-  - Cluster 143 (38 stories): Why jihadis will be upset with Pakistan Army over Operation Sindoor
+  - Cluster 139 (245 stories): 'India Targets Terror...': Raveena Tandon Supports 'Operation Sindoor' With A Powerful Message
+  - Cluster 857 (74 stories): How fragile ceasefire underlines India-Pakistan fault lines
+  - Cluster 195 (54 stories): Pakistani drone attacks thwarted in Punjab; three of family injured in Ferozepur
+  - Cluster 306 (49 stories): Rescue service: The Hindu Editorial on ‘Operation Kaveri’ and Sudan
+  - Cluster 133 (44 stories): India Destroys Pakistani Drone Launch Pads Near Jammu region
+  - Cluster 815 (43 stories): India destroys China-made missile shield in Lahore. What are Pak's HQ-9, HQ-16?
+  - Cluster 33 (42 stories): Operation Sindoor is an apt and timely response to Pahalgam
+  - Cluster 965 (40 stories): Modi visits Adampur air base days after Op Sindoor, meets soldiers
+  - Cluster 66 (38 stories): Why jihadis will be upset with Pakistan Army over Operation Sindoor
+  - Cluster 145 (38 stories): Amid Sudan crisis, a look at India's heroic missions that helped rescue citizens from war zones

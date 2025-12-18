@@ -1,29 +1,29 @@
 Analysis Report for Supreme Court
 ==================================================
 
-Total Stories: 11965
-Total Clusters: 8423
+Total Stories: 9444
+Total Clusters: 6956
 
 Top Keywords:
-  - sc: 1456.61
-  - court: 1213.16
-  - supreme: 804.16
-  - verdict: 750.68
-  - case: 743.98
-  - says: 718.52
-  - india: 606.13
-  - delhi: 557.23
-  - ayodhya: 553.60
-  - order: 527.63
+  - sc: 1173.54
+  - court: 996.59
+  - supreme: 654.21
+  - case: 600.75
+  - says: 522.76
+  - delhi: 489.56
+  - india: 487.55
+  - hc: 469.87
+  - order: 435.00
+  - verdict: 429.59
 
 Top Event Clusters:
-  - Cluster 70 (181 stories): ‘Hindutva is not divisive, not anti-Muslim … RSS will abide by the Supreme Court judgment on Ayodhya’
-  - Cluster 32 (71 stories): ‘SC verdict on Article 370 strengthened spirit of Ek Bharat, Shreshtha Bharat’: PM Modi
-  - Cluster 136 (52 stories): Ayodhya verdict will shape political and social landscape of India: US media
-  - Cluster 40 (32 stories): Supreme Court verdict tomorrow on plea challenging Sabarimala ruling
-  - Cluster 22 (32 stories): AIMPLB to take call on filing Ayodhya verdict review petition in SC today
-  - Cluster 23 (26 stories): Breaking news live: SC verdict tomorrow on CBI probe into Sushant Singh Rajput case
-  - Cluster 922 (24 stories): Rahul Gandhi: Modi Surname Case: Supreme Court stay paves way for Rahul Gandhi's disqualification reversal
-  - Cluster 338 (24 stories): Key Changes Made To Centre's Bill On Control Of Services In Delhi
-  - Cluster 249 (24 stories): Election Commission Has No Comments on Landmark Electoral Bonds Verdict: How it Changed its Stance
-  - Cluster 502 (23 stories): Six Things: Bilkis Bano Convicts Being Sent Back to Prison Is a Verdict on Much More
+  - Cluster 82 (71 stories): ‘SC verdict on Article 370 strengthened spirit of Ek Bharat, Shreshtha Bharat’: PM Modi
+  - Cluster 48 (26 stories): Breaking news live: SC verdict tomorrow on CBI probe into Sushant Singh Rajput case
+  - Cluster 829 (24 stories): Election Commission Has No Comments on Landmark Electoral Bonds Verdict: How it Changed its Stance
+  - Cluster 118 (24 stories): Key Changes Made To Centre's Bill On Control Of Services In Delhi
+  - Cluster 226 (24 stories): Rahul Gandhi: Modi Surname Case: Supreme Court stay paves way for Rahul Gandhi's disqualification reversal
+  - Cluster 179 (23 stories): Six Things: Bilkis Bano Convicts Being Sent Back to Prison Is a Verdict on Much More
+  - Cluster 0 (20 stories): The Rajiv Gandhi assassination case, and why Supreme Court has released all convicts
+  - Cluster 835 (20 stories): Gyanvapi mosque: ASI survey from today, panel moves top court
+  - Cluster 87 (16 stories): Ordinance moved to negate SC verdict on Delhi services
+  - Cluster 49 (14 stories): India's Controversial Sedition Law Explained In 5 Points

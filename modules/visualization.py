@@ -56,7 +56,14 @@ def plot_coverage_over_time(df, topic_name):
     monthly_counts.rename(columns=cluster_labels, inplace=True)
 
     fig, ax = plt.subplots(figsize=(12, 6))
-    monthly_counts.plot(kind="area", stacked=True, alpha=0.7, ax=ax, cmap="tab10")
+
+    # Use explicit stackplot for better control over x-axis dates
+    # monthly_counts.index should be DatetimeIndex
+    dates = monthly_counts.index
+    values = monthly_counts.T.values
+    labels = monthly_counts.columns
+
+    ax.stackplot(dates, values, labels=labels, alpha=0.7, cmap="tab10")
 
     ax.set_title(f"{topic_name}: Top 5 Events Coverage Over Time", fontsize=14)
     ax.set_xlabel("Date")
@@ -68,7 +75,10 @@ def plot_coverage_over_time(df, topic_name):
     ax.set_xlim(start_date, end_date)
 
     ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %Y"))
-    ax.xaxis.set_major_locator(mdates.MonthLocator(interval=3))
+    ax.xaxis.set_major_locator(mdates.MonthLocator(interval=6))
+
+    # Rotate labels to prevent overlap
+    plt.xticks(rotation=45, ha="right")
 
     ax.legend(title="Event Clusters", bbox_to_anchor=(1.05, 1), loc="upper left")
 

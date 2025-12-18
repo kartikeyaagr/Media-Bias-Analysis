@@ -1,29 +1,29 @@
 Analysis Report for Elections
 ==================================================
 
-Total Stories: 24476
-Total Clusters: 14381
+Total Stories: 21887
+Total Clusters: 12763
 
 Top Keywords:
-  - bjp: 3740.54
-  - election: 2904.78
-  - polls: 2590.41
-  - congress: 2479.21
-  - sabha: 2111.81
-  - lok: 2050.27
-  - 2024: 1800.21
-  - modi: 1787.89
-  - elections: 1734.56
-  - poll: 1481.92
+  - bjp: 3366.99
+  - election: 2433.64
+  - polls: 2326.06
+  - congress: 2187.08
+  - sabha: 1938.58
+  - lok: 1884.06
+  - 2024: 1756.05
+  - elections: 1562.46
+  - modi: 1493.97
+  - india: 1321.51
 
 Top Event Clusters:
-  - Cluster 106 (634 stories): MDMK Lok Sabha Election Winners Candidate FULL List 2024
-  - Cluster 206 (169 stories): 2024 Lok Sabha polls
-  - Cluster 1787 (122 stories): Jharkhand Election Result 2019 Date: Counting of votes on 23 Dec; BJP faces uphill task as exit polls favour JMM-led alliance
-  - Cluster 286 (120 stories): Message from exit polls: To fight the BJP, INDIA must focus on ideology and make way for young blood
-  - Cluster 629 (101 stories): Lok Sabha Elections 2024: How to cast vote in India? Here is a step-by-step guide
-  - Cluster 2653 (86 stories): Delhi LIVE ELECTION RESULT 2020 | Assembly (Vidhan Sabha) Chunav, Elections Results and Vote Counting Online
-  - Cluster 1655 (75 stories): Lok Sabha polls Phase 4 today: In 2019, it was BJP ahead, closely followed by non-aligned parties
-  - Cluster 190 (71 stories): Phase 7: Nomination process for Modis Varanasi, 12 other Lok Sabha constituencies in Uttar Pradesh to begin today
-  - Cluster 389 (68 stories): Will it be BJP or INDIA? Delhi to vote on Saturday in 6th phase
-  - Cluster 373 (62 stories): Lok Sabha polls 2024: Rajasthan sees low youth voter turnout compared to 2019
+  - Cluster 48 (634 stories): MDMK Lok Sabha Election Winners Candidate FULL List 2024
+  - Cluster 109 (169 stories): 2024 Lok Sabha polls
+  - Cluster 389 (120 stories): Message from exit polls: To fight the BJP, INDIA must focus on ideology and make way for young blood
+  - Cluster 493 (101 stories): Lok Sabha Elections 2024: How to cast vote in India? Here is a step-by-step guide
+  - Cluster 660 (86 stories): Delhi LIVE ELECTION RESULT 2020 | Assembly (Vidhan Sabha) Chunav, Elections Results and Vote Counting Online
+  - Cluster 1463 (75 stories): Lok Sabha polls Phase 4 today: In 2019, it was BJP ahead, closely followed by non-aligned parties
+  - Cluster 1350 (71 stories): Phase 7: Nomination process for Modis Varanasi, 12 other Lok Sabha constituencies in Uttar Pradesh to begin today
+  - Cluster 162 (68 stories): Will it be BJP or INDIA? Delhi to vote on Saturday in 6th phase
+  - Cluster 149 (62 stories): 1,876 polling stations in Dakshina Kannada and 1,842 in Udupi-Chikkamagaluru Lok Sabha constituencies to go to the polls on April 26
+  - Cluster 323 (62 stories): Lok Sabha polls 2024: Rajasthan sees low youth voter turnout compared to 2019

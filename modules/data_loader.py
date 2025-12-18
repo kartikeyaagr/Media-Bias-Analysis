@@ -48,12 +48,20 @@ def get_data(topic_name):
             )
             df = pd.read_csv(data_path, encoding="latin-1", on_bad_lines="skip")
 
-        # Ensure 'publish_date' is standard format if needed, though main.py just passes it through mostly.
-        # But 'main.py' logic might expect it to be a string or date object.
-        # Let's check main.py usage. It writes str(row.get("publish_date")) to json.
-        # analysis.py might parse it.
+        # Ensure 'publish_date' is standard format
+        df["publish_date"] = pd.to_datetime(df["publish_date"], errors="coerce")
 
-        print(f"Loaded {len(df)} stories for {topic_name}.")
+        # Filter by date range from config
+        original_count = len(df)
+        df = df[
+            (df["publish_date"] >= pd.Timestamp(config.START_DATE))
+            & (df["publish_date"] <= pd.Timestamp(config.END_DATE))
+        ]
+        filtered_count = len(df)
+
+        print(
+            f"Loaded {filtered_count} stories for {topic_name} (filtered {original_count - filtered_count} out-of-range)."
+        )
         return df
 
     except Exception as e:

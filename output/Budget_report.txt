@@ -1,29 +1,29 @@
 Analysis Report for Budget
 ==================================================
 
-Total Stories: 19037
-Total Clusters: 11531
+Total Stories: 16805
+Total Clusters: 10194
 
 Top Keywords:
-  - budget: 5018.88
-  - india: 2210.40
-  - union: 1704.38
-  - tax: 1138.10
-  - sitharaman: 995.14
-  - govt: 951.04
-  - 2023: 898.96
-  - 2024: 898.48
-  - rs: 872.80
-  - nirmala: 683.54
+  - budget: 4346.68
+  - india: 1973.40
+  - union: 1488.46
+  - sitharaman: 988.56
+  - tax: 970.92
+  - 2023: 886.91
+  - 2024: 886.57
+  - govt: 815.91
+  - says: 742.37
+  - rs: 740.87
 
 Top Event Clusters:
-  - Cluster 56 (71 stories): Budget 2019: Eyes on direct tax code as Nirmala Sitharaman readies for her first budget
-  - Cluster 16 (69 stories): Budget 2023 LIVE Updates: FM Nirmala Sitharaman to present her fifth straight budget, the last full budget of Modi govt 2.0, today
-  - Cluster 85 (61 stories): Modi pat for Sitharaman: 'People's Budget, force multiplier'
-  - Cluster 491 (56 stories): Union Budget 2019: Here is your cheatsheet to Budget jargon
-  - Cluster 697 (55 stories): Union Budget 2024: How students view Nirmala Sitharaman's big announcements
-  - Cluster 672 (50 stories): Reform, recovery or growth: What could be focus of India's budget 2023
-  - Cluster 355 (47 stories): Budget 2022 News LIVE Updates: Budget session begins today; what FM Nirmala Sitharaman may have in store
-  - Cluster 415 (46 stories): Nirmala Sitharaman to present Budget 2020 tomorrow: From preparation to presentation and tweaks in age-old practices; all you need to know
-  - Cluster 81 (44 stories): Fact-Check: Video of Finance Minister Nirmala Sitharaman Responding to Journalist’s Question About ‘Not Good Enough’ Budget Is Old
-  - Cluster 244 (32 stories): What to expect from finance minister Nirmala Sitharaman’s Budget 2021-22
+  - Cluster 49 (69 stories): Budget 2023 LIVE Updates: FM Nirmala Sitharaman to present her fifth straight budget, the last full budget of Modi govt 2.0, today
+  - Cluster 196 (61 stories): Modi pat for Sitharaman: 'People's Budget, force multiplier'
+  - Cluster 1232 (55 stories): Union Budget 2024: How students view Nirmala Sitharaman's big announcements
+  - Cluster 391 (50 stories): Reform, recovery or growth: What could be focus of India's budget 2023
+  - Cluster 465 (47 stories): Budget 2022 News LIVE Updates: Budget session begins today; what FM Nirmala Sitharaman may have in store
+  - Cluster 818 (46 stories): Nirmala Sitharaman to present Budget 2020 tomorrow: From preparation to presentation and tweaks in age-old practices; all you need to know
+  - Cluster 203 (44 stories): Fact-Check: Video of Finance Minister Nirmala Sitharaman Responding to Journalist’s Question About ‘Not Good Enough’ Budget Is Old
+  - Cluster 131 (32 stories): What to expect from finance minister Nirmala Sitharaman’s Budget 2021-22
+  - Cluster 567 (31 stories): Union Budget 2025: RRTS on track with Rs 2,918 crore, Delhi metro to seek funds
+  - Cluster 229 (31 stories): Budget 2023, Income tax slab live updates: Income tax announcements due today

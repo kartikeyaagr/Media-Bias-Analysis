@@ -1,29 +1,29 @@
 Analysis Report for Foreign Policy
 ==================================================
 
-Total Stories: 17737
-Total Clusters: 10935
+Total Stories: 15421
+Total Clusters: 9552
 
 Top Keywords:
-  - india: 5122.56
-  - china: 1666.14
-  - modi: 1590.06
-  - pm: 1299.90
-  - pakistan: 962.69
-  - jaishankar: 945.52
-  - says: 853.52
-  - foreign: 787.61
-  - indian: 718.21
-  - summit: 697.89
+  - india: 4517.52
+  - china: 1487.32
+  - modi: 1211.22
+  - pm: 1065.99
+  - jaishankar: 852.12
+  - foreign: 709.50
+  - pakistan: 706.19
+  - says: 703.22
+  - indian: 658.31
+  - summit: 591.36
 
 Top Event Clusters:
-  - Cluster 350 (58 stories): India firmly and swiftly rejects claim PM asked Trump to mediate on Kashmir issue
-  - Cluster 561 (28 stories): Pahalgam Terror Attack: EAM Jaishankar Holds Discussions With Israeli, Argentinian Ambassadors
-  - Cluster 133 (20 stories): US Secretary of State Mike Pompeo in New Delhi today, to meet PM Modi, Jaishankar
-  - Cluster 395 (18 stories): Closely monitoring Ukraine situation, focus on safety of Indians: External Affairs ministry
-  - Cluster 54 (18 stories): "Legitimises Terrorism": India Protests UN Body Report On Kashmir
-  - Cluster 949 (17 stories): Canada expels Indian diplomat as it investigates India's possible link to Sikh activist's slaying
-  - Cluster 2527 (17 stories): Xi tells Modi that China, India should consider ‘overall interests’ of ties and ‘properly handle’ border issue
-  - Cluster 601 (17 stories): PM Modi Holds Series Of Bilateral Talks With Leaders On Sidelines Of UN Meet
-  - Cluster 639 (17 stories): Quad summit with China as elephant in the room, Biden-Modi meeting: 7 takeaways from the PM’s US visit
-  - Cluster 52 (16 stories): G20 Summit: PM Modi arrives in Japan, will hold bilateral talks with world leaders
+  - Cluster 364 (28 stories): Pahalgam Terror Attack: EAM Jaishankar Holds Discussions With Israeli, Argentinian Ambassadors
+  - Cluster 224 (18 stories): Closely monitoring Ukraine situation, focus on safety of Indians: External Affairs ministry
+  - Cluster 2212 (17 stories): Xi tells Modi that China, India should consider ‘overall interests’ of ties and ‘properly handle’ border issue
+  - Cluster 557 (17 stories): Quad summit with China as elephant in the room, Biden-Modi meeting: 7 takeaways from the PM’s US visit
+  - Cluster 1657 (17 stories): Canada expels Indian diplomat as it investigates India's possible link to Sikh activist's slaying
+  - Cluster 1641 (16 stories): ‘Desperate measures’: Govt on China-backed Pak bid to raise Kashmir issue at UNSC
+  - Cluster 549 (15 stories): Extradite 26/11 kingpin Hafiz Saeed, India asks Pak
+  - Cluster 1446 (15 stories): PM Modi To Unveil Logo, Theme Of India's G20 Presidency Tomorrow
+  - Cluster 1031 (15 stories): Indian envoy not to attend Beijing Winter Olympics 2022 over Galwan soldier row
+  - Cluster 110 (15 stories): Isolated China gives up on UN listing of LeT’s Makki as global terrorist

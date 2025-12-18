@@ -8,9 +8,22 @@ from modules import data_loader, clustering, analysis, visualization
 import pandas as pd
 
 
+import shutil
+
+
 def run_analysis_pipeline():
     print("Starting Media Bias Analysis Pipeline...")
     print(f"Output Directory: {config.OUTPUT_DIR}")
+
+    # Clear previous outputs
+    if os.path.exists(config.OUTPUT_DIR):
+        print("Clearing previous outputs...")
+        shutil.rmtree(config.OUTPUT_DIR)
+
+    # Ensure output directories exist
+    os.makedirs(config.OUTPUT_DIR, exist_ok=True)
+    for folder_path in config.DIRS.values():
+        os.makedirs(folder_path, exist_ok=True)
 
     # Iterate through all topics defined in config
     for topic_name in config.QUERIES.keys():
