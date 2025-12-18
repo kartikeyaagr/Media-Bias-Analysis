@@ -10,3 +10,4 @@ sentence-transformers
 scikit-learn
 vaderSentiment
 textblob
+python-louvain

@@ -1,29 +1,29 @@
 Analysis Report for Foreign Policy
 ==================================================
 
-Total Stories: 20000
-Total Clusters: 9075
+Total Stories: 17737
+Total Clusters: 10935
 
 Top Keywords:
-  - india: 5223.66
-  - china: 2689.19
-  - russia: 1399.54
-  - modi: 1222.06
-  - pm: 1169.63
-  - says: 1150.63
-  - summit: 1112.00
-  - envoy: 1073.41
-  - ukraine: 1049.41
-  - ties: 863.05
+  - india: 5122.56
+  - china: 1666.14
+  - modi: 1590.06
+  - pm: 1299.90
+  - pakistan: 962.69
+  - jaishankar: 945.52
+  - says: 853.52
+  - foreign: 787.61
+  - indian: 718.21
+  - summit: 697.89
 
 Top Event Clusters:
-  - Cluster 856 (55 stories): PM Modi arrives in Italy for G7 Summit; several bilateral meetings lined up with world leaders
-  - Cluster 27 (55 stories): China raises Kashmir at UNSC, stung by silence from others
-  - Cluster 231 (39 stories): Russian missile lands in Poland, 2 dead; NATO calls emergency meet
-  - Cluster 1093 (36 stories): India, China Complete Eastern Ladakh Disengagement; Sweet Distribution Today: Sources
-  - Cluster 130 (36 stories): PM Modi, President Biden exchange views on global, regional issues including Indo-Pacific
-  - Cluster 744 (36 stories): India-China Bilateral Talks: Modi & Xi meet: A New Phase in Border Relations
-  - Cluster 246 (33 stories): PM Modi’s Russia visit: Why Russia is important to India
-  - Cluster 538 (30 stories): US secretary of state Antony Blinken begins his two-day India visit today
-  - Cluster 971 (29 stories): We have decided to give Enhanced Partnership status to India-Brunei ties: PM Modi
-  - Cluster 954 (29 stories): Ajit Doval holds talks with Chinese Foreign Minister Wang Yi on peace at borders, restoration of ties
+  - Cluster 350 (58 stories): India firmly and swiftly rejects claim PM asked Trump to mediate on Kashmir issue
+  - Cluster 561 (28 stories): Pahalgam Terror Attack: EAM Jaishankar Holds Discussions With Israeli, Argentinian Ambassadors
+  - Cluster 133 (20 stories): US Secretary of State Mike Pompeo in New Delhi today, to meet PM Modi, Jaishankar
+  - Cluster 395 (18 stories): Closely monitoring Ukraine situation, focus on safety of Indians: External Affairs ministry
+  - Cluster 54 (18 stories): "Legitimises Terrorism": India Protests UN Body Report On Kashmir
+  - Cluster 949 (17 stories): Canada expels Indian diplomat as it investigates India's possible link to Sikh activist's slaying
+  - Cluster 2527 (17 stories): Xi tells Modi that China, India should consider ‘overall interests’ of ties and ‘properly handle’ border issue
+  - Cluster 601 (17 stories): PM Modi Holds Series Of Bilateral Talks With Leaders On Sidelines Of UN Meet
+  - Cluster 639 (17 stories): Quad summit with China as elephant in the room, Biden-Modi meeting: 7 takeaways from the PM’s US visit
+  - Cluster 52 (16 stories): G20 Summit: PM Modi arrives in Japan, will hold bilateral talks with world leaders

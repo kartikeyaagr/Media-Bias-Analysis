@@ -1,7 +1,11 @@
+import os
+
+# Disable joblib's resource tracker component to prevent "leaked semaphore" warnings
+# This must be set before any other imports that might use joblib
+os.environ["JOBLIB_MULTIPROCESSING"] = "0"
 import config
 from modules import data_loader, clustering, analysis, visualization
 import pandas as pd
-import os
 
 
 def run_analysis_pipeline():
@@ -26,6 +30,10 @@ def run_analysis_pipeline():
 
         # 2. Clustering
         df = clustering.group_stories(df)
+        num_clusters = df["cluster_id"].nunique()
+        print(
+            f"DEBUG: Topic '{topic_name}' - Formed {num_clusters} clusters from {len(df)} stories."
+        )
 
         # 3. Analysis
         df = analysis.analyze_sentiment(df)
@@ -43,7 +51,7 @@ def run_analysis_pipeline():
         visualization.plot_sentiment_distribution(df, topic_name)
         visualization.plot_event_framing(df, topic_name)
         visualization.plot_source_network(G, topic_name)
-        visualization.plot_top_keywords(keywords, topic_name)
+        visualization.plot_top_keywords(df, topic_name)
 
         # 5. Generate Text Report
         report_path = os.path.join(config.OUTPUT_DIR, f"{topic_name}_report.txt")
@@ -105,6 +113,17 @@ def run_analysis_pipeline():
                 f,
                 indent=2,
             )
+
+        # Clean up memory
+        print(f"Cleaning up memory for {topic_name}...")
+        del df
+        if "G" in locals():
+            del G
+        if "keywords" in locals():
+            del keywords
+        import gc
+
+        gc.collect()
 
     print("\nPipeline Completed Successfully.")
 

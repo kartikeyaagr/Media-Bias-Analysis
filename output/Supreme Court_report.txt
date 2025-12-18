@@ -1,29 +1,29 @@
 Analysis Report for Supreme Court
 ==================================================
 
-Total Stories: 20000
-Total Clusters: 8815
+Total Stories: 11965
+Total Clusters: 8423
 
 Top Keywords:
-  - hc: 4124.23
-  - sc: 3941.35
-  - court: 2607.03
-  - plea: 1808.83
-  - supreme: 1583.95
-  - delhi: 1359.12
-  - case: 1245.99
-  - high: 1170.43
-  - govt: 1112.52
-  - justice: 1103.08
+  - sc: 1456.61
+  - court: 1213.16
+  - supreme: 804.16
+  - verdict: 750.68
+  - case: 743.98
+  - says: 718.52
+  - india: 606.13
+  - delhi: 557.23
+  - ayodhya: 553.60
+  - order: 527.63
 
 Top Event Clusters:
-  - Cluster 64 (103 stories): Hijab row: Karnataka High Court to pronounce judgement tomorrow
-  - Cluster 8 (77 stories): US reaffirms support for India's pursuit of justice in 26/11 attacks
-  - Cluster 10 (72 stories): Law Ministry Notifies Justice Muralidhar’s Transfer From Delhi HC
-  - Cluster 511 (65 stories): President Ram Nath Kovind nominates former CJI Ranjan Gogoi to Rajya Sabha
-  - Cluster 551 (62 stories): Sambhal violence: SC restrains trial court proceedings till Jan 8; directs Masjid committee to approach HC
-  - Cluster 541 (62 stories): HC judge refers hijab pleas to CJ, full bench hearing today
-  - Cluster 772 (59 stories): Nirbhaya: Convict Mukesh Kumar seeks urgent hearing in SC against rejection of mercy plea
-  - Cluster 43 (58 stories): Supreme Court Scrutinizes Waqf Act Amid YSRCP's Muslim Rights Push
-  - Cluster 5 (55 stories): CJI forms panel to probe charges against Justice Varma; directs not to assign him any judicial work
-  - Cluster 265 (51 stories): HC Bar Assn begins indefinite stir against Justice Varmaâs transfer
+  - Cluster 70 (181 stories): ‘Hindutva is not divisive, not anti-Muslim … RSS will abide by the Supreme Court judgment on Ayodhya’
+  - Cluster 32 (71 stories): ‘SC verdict on Article 370 strengthened spirit of Ek Bharat, Shreshtha Bharat’: PM Modi
+  - Cluster 136 (52 stories): Ayodhya verdict will shape political and social landscape of India: US media
+  - Cluster 40 (32 stories): Supreme Court verdict tomorrow on plea challenging Sabarimala ruling
+  - Cluster 22 (32 stories): AIMPLB to take call on filing Ayodhya verdict review petition in SC today
+  - Cluster 23 (26 stories): Breaking news live: SC verdict tomorrow on CBI probe into Sushant Singh Rajput case
+  - Cluster 922 (24 stories): Rahul Gandhi: Modi Surname Case: Supreme Court stay paves way for Rahul Gandhi's disqualification reversal
+  - Cluster 338 (24 stories): Key Changes Made To Centre's Bill On Control Of Services In Delhi
+  - Cluster 249 (24 stories): Election Commission Has No Comments on Landmark Electoral Bonds Verdict: How it Changed its Stance
+  - Cluster 502 (23 stories): Six Things: Bilkis Bano Convicts Being Sent Back to Prison Is a Verdict on Much More
